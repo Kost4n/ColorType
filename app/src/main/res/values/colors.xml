@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#B6A7A7</color>
+    <color name="pastel">#EFBE7D</color>
+    <color name="l_yellow">#FAFA42</color>
+    <color name="brown">#964b00</color>
+    <color name="golden">#ffd700</color>
+    <color name="dark_brown">#654321</color>
+    <color name="burgundy">#800020</color>
+    <color name="bluish_black">#B6A7A7</color>
+    <color name="l_pink">#F48DF4</color>
+    <color name="silver">#c0c0c0</color>
+    <color name="red">#ff0000</color>
+    <color name="purple">#8b00ff</color>
+    <color name="green">#008000</color>
+    <color name="orange">#ffa500</color>
+    <color name="bronze">#cd7f32</color>
+    <color name="blue">#0000ff</color>
+    <color name="olive">#808000</color>
+    <color name="gray">#808080</color>
+    <color name="coffee">#442d25</color>
+    <color name="beige">#f5f5dc</color>
+    <color name="coral">#ff7f50</color>
+    <color name="l_blue">#42aaff</color>
+    <color name="pink">#F840D9</color>
+    <color name="lavender">#e6e6fa</color>
+    <color name="dark_blue">#023A60</color>
+    <color name="emerald">#50c878</color>
+
+</resources>
